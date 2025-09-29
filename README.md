@@ -33,7 +33,7 @@ PowerBI/
 2. **E-commerce Sales Dashboard**
    - Sales analysis of e-commerce dataset, including revenue, profit, and customer trends.
 
-3. **Ecommerce.pbix**
+3. **Ecommerce**
    - Another variant of e-commerce dataset visualization with deep-dive insights.
 
 4. **Credit Card Dashboard**
