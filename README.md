@@ -1,8 +1,14 @@
 
 # 📊 Power BI Dashboards Portfolio
 
-This repository contains my Power BI projects showcasing skills in data analysis, data visualization, and business insights.  
-Each dashboard demonstrates the use of **DAX, data modeling, and storytelling with data**.
+🚀 Welcome to my **Power BI Dashboards Portfolio**!  
+
+This repository is a collection of my end-to-end **data analytics projects**, where raw data is transformed into **insightful, interactive dashboards**.  
+
+✨ Each project highlights:
+- 📊 **Data Visualization** – turning numbers into meaningful stories  
+- 🧮 **DAX & Data Modeling** – building calculated measures and relationships  
+- 📈 **Business Insights** – uncovering trends, patterns, and KPIs  
 
 ---
 
